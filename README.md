@@ -1,2 +1,2 @@
 # parentRepoSample
-sample chnages 111111111111
+sample chnages.... from Git UI.
