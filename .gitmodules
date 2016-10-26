@@ -1,6 +1,6 @@
 [submodule "childRepoSample1"]
 	path = childRepoSample1
-	url = https://github.com/KumariJyoti/childRepoSample1
+	url = https://github.com/KumariJyoti/childRepoSample1.git
 [submodule "childRepoSample2"]
 	path = childRepoSample2
-	url = https://github.com/KumariJyoti/childRepoSample2
+	url = https://github.com/KumariJyoti/childRepoSample2.git
