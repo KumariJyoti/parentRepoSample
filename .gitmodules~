@@ -1,6 +1,0 @@
-[submodule "childRepoSample1"]
-	path = childRepoSample1
-	url = https://github.com/KumariJyoti/childRepoSample1
-[submodule "childRepoSample2"]
-	path = childRepoSample2
-	url = https://github.com/KumariJyoti/childRepoSample2
